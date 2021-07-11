@@ -1,4 +1,4 @@
-# Basics-of-Python-
+# Concepts-of-Python-
 ![](HiPython.gif)
 •	Python Basicso	Math Operators
     o	Data Types
